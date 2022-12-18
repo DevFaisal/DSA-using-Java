@@ -5,7 +5,7 @@ public class decToBin {
 
     public static void main(String[] args) {
 
-        System.out.print("Enter Some Number : ");
+        System.out.print("Enter a  Number : ");
         Scanner sc = new Scanner(System.in);
         int DecNum = sc.nextInt();
         int num = DecNum;
