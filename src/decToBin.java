@@ -5,9 +5,9 @@ public class decToBin {
 
     public static void main(String[] args) {
 
-        System.out.print("Enter a  Number : ");
-        Scanner sc = new Scanner(System.in);
-        int DecNum = sc.nextInt();
+        System.out.print("Enter any Number : ");
+        Scanner SC = new Scanner(System.in);
+        int DecNum = SC.nextInt();
         int num = DecNum;
         int Pow = 0;
         int BinNum = 0;
