@@ -1,3 +1,5 @@
+package Conversion;
+
 import java.util.Scanner;
 
 //Binary to Decimal 

@@ -1,3 +1,5 @@
+package Arrays;
+
 public class ReverseArray {
 
     // Reverse Fundtion

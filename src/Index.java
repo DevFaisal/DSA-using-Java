@@ -1,4 +1,4 @@
-public class Test {
+public class Index {
 
     public static boolean isPalindrome(int x) {
 

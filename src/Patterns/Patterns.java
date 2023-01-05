@@ -1,3 +1,5 @@
+package Patterns;
+
 public class Patterns {
 
     // Hollow Rectangele

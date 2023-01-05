@@ -1,3 +1,5 @@
+package Patterns;
+
 //Print Pairs
 public class PairsPrint {
 
