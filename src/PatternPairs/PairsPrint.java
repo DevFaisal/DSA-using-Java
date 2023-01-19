@@ -1,4 +1,4 @@
-package Patterns;
+package PatternPairs;
 
 //Print Pairs
 public class PairsPrint {

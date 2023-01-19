@@ -1,6 +1,7 @@
 public class Index {
 
     public static boolean isPalindrome(int x) {
+        String name = "Faisal";
 
         int number = 0;
         int temp = x;

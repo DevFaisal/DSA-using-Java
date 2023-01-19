@@ -1,4 +1,4 @@
-package Patterns;
+package PatternPairs;
 
 public class Patterns {
 
