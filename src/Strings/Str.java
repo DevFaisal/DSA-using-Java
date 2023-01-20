@@ -2,20 +2,6 @@ package Strings;
 
 public class Str {
 
-    public static String toUpperCase(String Str) {
-
-        String upperCase = "";
-        for (int i = 0; i < Str.length(); i++) {
-            if (Str.charAt(i) >= 'a' && Str.charAt(i) <= 'z') {
-                // upperCase = Str.charAt(i) - (String) (32);
-            }
-            System.out.println(upperCase);
-        }
-        return upperCase;
-    }
-
-    }
-
     public static String Compression(String str) {
 
         StringBuilder newStr = new StringBuilder();

@@ -1,3 +1,5 @@
+package SearchSort;
+
 public class SearchingAlgorithms {
 
     public static int BinarySearch(int arr[], int key) {

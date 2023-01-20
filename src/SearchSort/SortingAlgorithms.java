@@ -1,3 +1,5 @@
+package SearchSort;
+
 public class SortingAlgorithms {
 
     public static void BubbleSort(int arr[]) {
